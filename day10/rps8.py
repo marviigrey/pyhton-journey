@@ -97,5 +97,4 @@ if __name__ == "__main__":
    )
    args = parser.parse_args()
    rock_paper_scissors = rps(args.name)
-   rock_paper_scissors()
-      
+rock_paper_scissors()
