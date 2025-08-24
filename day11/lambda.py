@@ -17,7 +17,7 @@ addTen = funcBuilder(10)
 addTwenty = funcBuilder(20)
 
 print(addTen(4))
-print(addTwenty(5))
+print(addTAwenty(5))
 
 ###############################
 # a higher order function returns a function as an argument or recieves a function as an argument.
